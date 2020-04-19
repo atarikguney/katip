@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"github.com/tarikguney/katip/commands"
 	"os"
-
 	"github.com/urfave/cli"
 )
 
